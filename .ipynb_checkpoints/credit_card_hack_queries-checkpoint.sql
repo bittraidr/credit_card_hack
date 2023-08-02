@@ -64,7 +64,4 @@ JOIN card_holder ch ON cc.cardholder_id = ch.id
 LEFT JOIN merchant m ON t.id_merchant = m.id
 WHERE t.amount <= 2.00
 GROUP BY m.name
-ORDER BY transaction_count_under_2 DESC
-LIMIT 5;
-
-
+ORDER BY transaction_count_under_2 DESC;
