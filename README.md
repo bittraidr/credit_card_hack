@@ -5,7 +5,8 @@
     
     
 ## Do you see any anomalous transactions that could be fraudulent?
-    There are 43 showing under $2 for 7 to 9am. 
+    There are 43 anomalous transactions showing for under $2 for 7 to 9am. 
+    
 ### Is there a higher number of fraudulent transactions made during this time frame versus the rest of the day
     Out of 353 total transactions under $2 about 12% happen withing the hours of 7am to 9am. I think that is potentially the highest 2 hours period of time during the day for fraudulent transactions. I don't have any concrete theories as to why because I would think later in the day towards closing times would be the absolute highest because fraudulent transactions would be less likely to be scrutinized as workers generally want to leave their jobs and go home at the end of the day. Perhaps the people doing the hacking are most motivated early in the day. 
     
