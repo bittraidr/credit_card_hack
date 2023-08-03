@@ -23,11 +23,11 @@
 
 ## Are there any outliers for cardholder ID 25? How many outliers are there per month?
 ## Do you notice any anomalies? Describe your observations and conclusions.
--1 in January 
--1 in March
--3 in April
--1 in May 
--3 in June
+1. January: 1
+2. March: 1
+3. April: 3
+4. May: 1
+5. June: 3
 
     In observing the box plot the above trasnactions stand out as outliers, these transactions should be examined first. If the owner off the card identifies any of these transactions as fraud they they were outliers, however it is much more difficult to identify fraud if the transaction blends in with other transactions.
     
